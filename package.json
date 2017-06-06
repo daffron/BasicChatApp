@@ -1,0 +1,19 @@
+{
+  "name": "basic-chat-app",
+  "version": "1.0.0",
+  "description": "A simple chat app to learn sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daffron/BasicChatApp.git"
+  },
+  "author": "Jack Daffron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daffron/BasicChatApp/issues"
+  },
+  "homepage": "https://github.com/daffron/BasicChatApp#readme"
+}
