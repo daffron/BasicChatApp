@@ -4,6 +4,7 @@
   "description": "A simple chat app to learn sockets",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/daffron/BasicChatApp/issues"
   },
-  "homepage": "https://github.com/daffron/BasicChatApp#readme"
+  "homepage": "https://github.com/daffron/BasicChatApp#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.2"
+  }
 }
